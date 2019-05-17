@@ -1,7 +1,7 @@
 
 const Home = props => (
     <div>
-        <p></p>
+        <p>Hey</p>
     </div>
 )
 
